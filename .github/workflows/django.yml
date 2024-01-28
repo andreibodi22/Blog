@@ -13,4 +13,4 @@ jobs:
     runs-on: ubuntu-latest
     steps: 
       - name: print files in test
-        run: ls- l
+        run: ls -l
